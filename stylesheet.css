@@ -1,6 +1,6 @@
 
 html{
-    background-image: url(https://github.com/MegMcPhee/MegMcPhee.github.io/blob/master/IMG_2281.jpeg) no-repeat center center fixed;
+    background-image: url("IMG_2281.jpeg") no-repeat center center fixed;
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -12,6 +12,10 @@ h1{
     font-size: 60px;
     color: white;
     background-color:rgb(45, 134, 125)
+}
+img{
+    text-align: center;
+    box-shadow: 10px 5px 5px rgb(185, 184, 184);
 }
 
 
